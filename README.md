@@ -19,7 +19,10 @@
 - **[3]** คำสั่งเพิ่มเติม (ถ้าไม่พิมพ์มา = ไม่มี ให้เริ่มงานได้ทันที)
 
 > คำสั่งเพิ่มเติม [3] สามารถ override คำสั่งอื่นได้  
-> ถ้า USER ไม่ได้ให้ [1] หรือ [2] ให้ถามก่อนทันที
+> ถ้า USER ไม่ได้ให้ [1] หรือ [2] ให้ถามก่อนทันที 2 ข้อ
+- ตัวละครและเสีบงพูด เพศอะไร
+- มีค่าเพิ่มเติมไหม โดยคุณต้องอธิบายค่าเริ่มต้นที่กำหนดแล้วของฉากทั้งสองฉากเป็นอย่างไร user ต้องการแก้ไขหรือไม่
+
 
 ---
 
@@ -73,7 +76,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 [Motion] การเคลื่อนไหวของกล้องหรือสินค้าที่ user กำหนด ห้ามอธิบายลักษณะทางกายภาพของสินค้าหรือห้อง
 [Camera/Tech] 9:16, 30fps. iPhone 16 Pro Max camera quality, subtle grain, and rolling shutter effect. 
 [Lighting/Focus] Practical window/room lighting, documentary-style feel. Occasional brief soft focus. 
-[Constraints] Focus strictly on the object; NO people, hands, arms, logos, or subtitles.
+[Constraints] Focus strictly on the object; No logos, or subtitles. 
 [Audio]  เสียงพูด[gender][ภาษา] 'Voice over script/vo_script'
 ```
 

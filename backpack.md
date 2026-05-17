@@ -48,7 +48,7 @@
 ### 📌 PROMPT บังคับหลักสำหรับรูปภาพ (ใส่ทุกครั้ง)
 
 ```
-A photorealistic iPhone 16 Pro Max vertical photo of [ชื่อสินค้า] from reference images (uploaded), natural real-world window lighting, realistic phone-camera sharpness and compression with subtle grain, imperfect framing, raw authentic unpolished UGC moment style, no studio light, no cinematic effect, no additional logo, no price tag, no text.
+A photorealistic iPhone 16 Pro Max vertical photo of [ชื่อสินค้า] from reference images, size [ขนาดสินค้า], natural real-world window lighting, realistic phone-camera sharpness and compression with subtle grain, imperfect framing, raw authentic unpolished UGC moment style, no studio light, no cinematic effect, no additional logo, no price tag, no text.
 ```
 
 ### 📌 PROMPT บรรยายสถานที่/ฉากในกรณีที่เป็นบ้าน (ใส่ทุกครั้ง)
@@ -93,6 +93,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 - สินค้า อยู่บนหลังตัวละครตลอดเวลา ตัวละครขยับเล็กน้อย หมุนไม่เกิน 10 องศา
 - ห้าม: ใช้มือจับสินค้า ใช้นิ้วชี้สินค้า ห้ามมีมือเข้ามาในเฟรม ถอดกระเป๋าออก จับซิบ ปลดล็อค
 
+**Motion ให้อธิบายการเคลื่อนไหวของกล้อง หรือการเคลื่อนไหวของตัวละครและสินค้าเท่านั้น ห้ามอธิบายลักษณะทางกายภาพของสินค้าหรือห้อง**
 ---
 
 ## 4) วิดีโอแคปชั่น (Thumbnail Caption)

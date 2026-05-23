@@ -65,6 +65,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 - ประกอบด้วย: คำทักทาย → แนะนำสินค้า → ปิดการขาย หรือตามคำสั่งเพิ่มเติม(ถ้ามี)
 - ภาษาเป็นธรรมชาติแนวแม่ค้าโซเชียลมีเดีย เพศตามที่ผู้ใช้กำหนด
 - ต้องเป็นภาษาพูดของคนมาเลเซีย ห้ามใช้ภาษาพูดของคนอินโด
+- ห้ามใช้ Em Dash
 - **ตอบใน code block เดียวทั้งสองส่วน ไม่ต้องแยก**
 
 ---
@@ -103,6 +104,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 - ข้อความสั้นๆที่ ตื่นเต้น น่าสนใจ น่าคลิก น่าแปลกใจ
 - ใช้เขียนบน Thumbnail วิดีโอ
 - ดึงดูดความสนใจ และสอดคล้องกับ Voice over script จากข้อ 2
+- ห้ามใช้ Em Dash หรือ "-"
 
 ---
 

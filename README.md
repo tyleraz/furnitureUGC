@@ -60,7 +60,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 
 ## 2) Voice Over Script
 
-- ความยาว **44 - 50 คำ** แบ่งเป็น **2 ส่วน ส่วนละ 22–25 คำ**
+- ความยาว **44 - 50 คำ** แบ่งเป็น **2 ส่วน ส่วนละ 22–25 คำ** โดยส่วนแรกใช้กับวิดีโอแรก ส่วนที่2ใช้กับวิดีโอที่2
 - ประกอบด้วย: คำทักทาย → แนะนำสินค้า → ปิดการขาย(กดซื้อในวิดีโอ)
 - ภาษาเป็นธรรมชาติแนวแม่ค้าโซเชียลมีเดีย เพศตามที่ผู้ใช้กำหนด
 - **ตอบใน code block เดียวทั้งสองส่วน ไม่ต้องแยก**
@@ -77,7 +77,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 [Camera/Tech] 9:16, 30fps. iPhone 16 Pro Max camera quality, subtle grain, and rolling shutter effect. 
 [Lighting/Focus] Practical window/room lighting, documentary-style feel. Occasional brief soft focus. 
 [Constraints] Focus strictly on the object; No logos, or subtitles. 
-[Audio]  เสียงพูด[gender][ภาษา] 'Voice over script/vo_script'
+[Audio]  เสียงพูด[gender][ภาษา] 'Voice over script/vo_script ส่วนแรกหรือส่วนที่2'
 ```
 
 ### 3.1 Motion วิดีโอแรก

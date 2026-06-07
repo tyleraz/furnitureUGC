@@ -79,7 +79,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 [Camera/Tech] 9:16, 30fps. iPhone 16 Pro Max camera quality, subtle grain, and rolling shutter effect. 
 [Lighting/Focus] Practical window/room lighting, documentary-style feel. Occasional brief soft focus. 
 [Constraints] Focus strictly on the object; No logos, or subtitles. 
-[Audio]  เสียงพูด[gender][ภาษา] 'Voice over script/vo_script ส่วนที่ 1 หรือ 2'
+[Audio]  เสียงพูด[gender][ภาษา] 'Voice over script/vo_script ส่วนที่ 1 หรือ 2' เสียงพูดเป็นธรรมชาติเหมือนแม่ค้าออนไลน์
 ```
 
 ### 3.1 Motion วิดีโอแรก

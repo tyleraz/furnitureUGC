@@ -40,6 +40,7 @@
 ### 1.1 รูปสินค้าวางอยู่
 
 ชุดผ้าปูที่นอนที่ปูแล้วพร้อมใช้งานบนเตียง ไม่สมบูรณ์แบบเหมือนโรงแรม หน้าต่างต้องมีผ้าม่าน sheer ปิดไม่เห็นด้านนอก
+A female hand enters from the right side of the frame, gently resting and touching the lower right corner of the bed.
 
 ### 1.2 รูปสินค้าในลักษณะถูกใช้งานจริงหรือพร้อมใช้งาน
 
@@ -83,14 +84,11 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 
 ### 3.1 Motion วิดีโอแรก
 
-- กล้อง การเคลื่อนกล้องวนรอบเตียงอย่างนุ่มนวลและต่อเนื่อง เก็บภาพชุดผ้าปูที่นอนจากหลายมุมในการเคลื่อนไหวลื่นไหลครั้งเดียว ถ่ายต่อเนื่องในช็อตเดียว ไม่มีการตัดต่อ
-- สินค้า fix กับที่ 100% ไม่ขยับ ไม่หมุน
-- ห้าม: ใช้มือจับสินค้า ใช้นิ้วชี้สินค้า
-- อนุญาต: ลูบหรือสัมผัสเบาๆ เท่านั้น
+Camera follows a hand that slowly strokes the bed sheet from the foot of the bed toward the headboard in one smooth continuous motion, gentle handheld micro-shakes. Camera moves with the hand, tracking its path from lower frame to upper frame.
 
 ### 3.2 Motion วิดีโอที่ 2
 
-- การเคลื่อนกล้อง: ไถลกล้อง (Dolly) ไปตามความยาวของเตียงควบคู่กับการ Tilt เพื่อสร้างมิติและความลึก
+- การเคลื่อนกล้อง: Slow orbit shot around the bed, camera moves gently in an arc. The bed sheet and comforter stay completely still, no movement of any object in the scene. No hands, no people enter the frame at any point.
 - สินค้า fix กับที่ 100% ไม่ขยับ ไม่หมุน
 - ห้าม: ใช้มือจับสินค้า ใช้นิ้วชี้สินค้า ห้ามมีมือเข้ามาในเฟรม
 

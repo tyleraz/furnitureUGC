@@ -113,13 +113,13 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 ใช้เทมเพลทนี้ให้ครบ:
 
 ```
-MrBeast-style vertical thumbnail using the reference image as the visual reference. At the top of the frame, smaller white or grey text reads: '[brand + model]'. In the lower center, bold oversized caption: '[วิดีโอแคปชั่น จากข้อ 4]' in high-contrast bright color with heavy dark outline, large enough to remain fully visible when the image is cropped to 1:1. No brand icons. Vibrant clean authentic UGC tone.
+MrBeast-style vertical thumbnail using the reference image as the visual reference. At the top of the frame, smaller white or grey text reads: '[brand + model]'. In the upper center, bold oversized caption: '[วิดีโอแคปชั่น จากข้อ 4]' in high-contrast bright color with heavy dark outline, large enough to remain fully visible when the image is cropped to 1:1. No brand icons.
 ```
 
 ### 📌 PROMPT บังคับต่อท้าย (ใส่ทุกครั้ง)
 
 ```
-If the reference image contains characters, the main character is shown with an excited, shocked facial expression, eyes slightly widened and mouth open in surprise while looking at the [product], keeping the pose natural and in line with UGC style.
+If the reference image contains characters, the main character is shown with an excited, shocked facial expression, eyes slightly widened and mouth open in surprise while looking at the [product], keeping the pose natural.
 ```
 
 ---

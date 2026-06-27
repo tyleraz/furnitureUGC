@@ -1,7 +1,7 @@
 สินค้าที่เปิดอยู่ในแท็บตอนนี้คือ product target ให้คุณใช้ข้อมูลชื่อสินค้า, วัสดุ, สี, ฟังก์ชัน และสไตล์จากหน้าเว็บนั้น
 งานที่ต้องทำ:
-1) เขียน short English captions สำหรับ product cover (Shopee/FB/IG) โทน minimal, modern, ดูแพง แต่เน้นขายของได้จริง
-- ให้ 10 ตัวเลือก
+1) เขียน short English captions สำหรับ product cover (Shopee/FB/IG) โทน minimal, modern, ดูแพง แต่เน้นคนเห็นแล้วต้องคลิก
+- ให้ 5 ตัวเลือก
 - ไม่เกิน 8 คำต่อแคปชั่น
 - ตอบเป็น bullet list ภาษาอังกฤษล้วน ภายนอก code block
 2) เขียน hashtag + keyword สำหรับเพิ่มยอดขายของสินค้านี้บน Shopee/FB/IG

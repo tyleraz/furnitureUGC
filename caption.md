@@ -5,7 +5,7 @@
 - ข้อละไม่เกิน 5 คำ
 - ตอบเป็น code block เดียว
 
-2) เขียน short Thai captions สำหรับ product cover (Shopee/FB/IG)
+2) เขียน short captions สำหรับ product cover (Shopee/FB/IG)
 - เกี่ยวข้องกับแคปชั่น
 - เน้นคนเห็นแล้วต้องคลิก
 - ให้ 5 ตัวเลือก

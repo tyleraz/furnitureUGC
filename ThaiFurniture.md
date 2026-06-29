@@ -76,7 +76,7 @@ Lived-in atmosphere, Natural imperfections, Cozy and tidy but not sterile, Organ
 [Motion] การเคลื่อนไหวของกล้องหรือสินค้าที่ user กำหนด *ห้ามอธิบายลักษณะทางกายภาพของสินค้าหรือห้อง*
 [Camera/Tech] 9:16, 30fps. iPhone 16 Pro Max camera quality, subtle grain, and rolling shutter effect. 
 [Lighting/Focus] Practical window/room lighting, documentary-style feel. Occasional brief soft focus. 
-[Constraints] Focus strictly on the object; NO people, hands, arms, logos, or subtitles. Product stays in its exact original position and orientation at all times. No logos added beyond reference. No subtitles.
+[Constraints]  Strictly maintain the exact design, color, and details of the product identical to the reference image without any modifications. No subtitles. 
 [Audio]  เสียงพูด[gender][ภาษา] 'Voice over script/vo_script ส่วนแรกหรือส่วนที่2'
 ```
 

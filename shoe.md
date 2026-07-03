@@ -31,7 +31,7 @@ No talking.
 ***แบบกว้างๆ***
 ```
 [Core + Start]
-A candid vertical UGC video of ตัวละครและรองเท้า, based on the reference images.
+A candid vertical UGC video of ตัวละคร(ในชุดสุ่มสี)และรองเท้า, based on the reference images.
 
 [Motion]
 Fast-paced sequence with quick cuts between focused camera angles of the item.

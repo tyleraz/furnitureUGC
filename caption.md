@@ -15,11 +15,11 @@
 - ให้เขียนบอกว่าใครพูดด้วย เช่น:
 2.1
 ```
-Female Malay/Thai voice-over: [ใส่Voice Over Script ส่วนที่ 1]
+Female Malay/Thai voice-over: "[ใส่Voice Over Script ส่วนที่ 1]"
 ```
 2.2
 ```
-Female Malay/Thai voice-over: [ใส่Voice Over Script ส่วนที่ 2]
+Female Malay/Thai voice-over: "[ใส่Voice Over Script ส่วนที่ 2]"
 ```
 
 3) เขียน short captions สำหรับ product cover (Shopee/FB/IG)

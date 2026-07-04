@@ -24,7 +24,7 @@ Female Malay/Thai voice-over: "[ใส่Voice Over Script ส่วนที่
 
 3) เขียน short captions สำหรับ product cover (Shopee/FB/IG)
 - เกี่ยวข้องกับข้อ 1 หรือ 2 
-- เน้นคนเห็นแล้วต้องคลิก
+- แนวคลิกเบต, คำถาม ชวนให้หาคำตอบ
 - ให้ 5 ตัวเลือก
 - ไม่เกิน 8 คำต่อแคปชั่น
 - ตอบเป็น bullet list
@@ -48,3 +48,5 @@ https://shopee.../product/{shop_id}/{item_id}
 #ชื่อBrand #ชื่อModel #ShopeeVideoTH #ของเด็ดแอปส้ม
 ```
 - ตอบเป็น code block เดียว 1 บรรทัดต่อเนื่อง (ไม่มีขึ้นบรรทัดใหม่)
+
+**Voice Over Script มักมีจำนวนคำเกินมาบ่อยๆ คุณต้องทบทวนทุกครั้ง**

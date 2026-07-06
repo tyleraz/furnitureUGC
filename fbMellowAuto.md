@@ -37,6 +37,11 @@
 > A = [สวนหน้าบ้าน, สวนข้างบ้าน, ระเบียงนั่งเล่นนอกบ้าน, ทางเดินในสวน, มุมน้ำตก/บ่อปลา, ซุ้มไม้เลื้อย/ศาลานั่งเล่น, โรงจอดรถโมเดิร์นพร้อมสวน, พื้นที่จัดปาร์ตี้ปิ้งย่างในสวน] 
 > B = [สไตล์โมเดิร์น (Modern), สไตล์มินิมอล (Minimalist), สไตล์จัดสวนสไตล์อังกฤษ (English Cottage), สไตล์ทรอปิคอล/ป่าดิบชื้น (Tropical), สไตล์ญี่ปุ่น/เซน (Japanese Zen), สไตล์โคซี่ (Cozy), สไตล์ลอฟท์ (Industrial Loft), สไตล์โมเดิร์นลักชัวรี่ (Modern Luxury)]
 - ค้นหารูปจากในเน็ตและโซเซียล เน้นรูปใหม่ๆก่อน แล้วแปลงไอเดียรูปเป็น prompt แบบ broad ไม่ละเอียดเกินไป เพื่อจะได้รูปที่แตกต่าง กำหนดขนาดรูป 3:4 --ar
+- 📌 PROMPT บังคับหลักสำหรับรูปภาพ (ใส่ทุกครั้ง)
+
+```
+A photorealistic iPhone 16 Pro Max vertical photo of ... , natural real-world lighting, realistic phone-camera sharpness and compression with subtle grain, imperfect framing, raw authentic unpolished UGC moment style, no studio light, no cinematic effect.
+```
 - คิดแคปชั่นสำหรับทั้ง 2 รูปโพสลง Facebook แคปชั่นต้องกระชับ มี Emoji และ Hashtags
 **การตอบ**
   ชุดที่ 1 รูปอะไร+สไตล์ไหน

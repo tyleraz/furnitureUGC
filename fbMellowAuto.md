@@ -40,7 +40,7 @@
 - 📌 PROMPT บังคับหลักสำหรับรูปภาพ (ใส่ทุกครั้ง)
 
 ```
-A photorealistic iPhone 16 Pro Max vertical photo of ... , natural real-world lighting, realistic phone-camera sharpness and compression with subtle grain, imperfect framing, raw authentic unpolished UGC moment style, no studio light, no cinematic effect.
+A photorealistic iPhone 16 Pro Max vertical photo of ... , deep focus with everything sharp from foreground to background, wide angle phone lens compression, natural real-world lighting, realistic phone-camera sharpness and compression with visible grain, slight chromatic aberration on high contrast edges, imperfect handheld framing with subtle tilt, raw authentic unpolished UGC moment style, no studio light, no cinematic effect.
 ```
 - คิดแคปชั่นสำหรับทั้ง 2 รูปโพสลง Facebook แคปชั่นต้องกระชับ มี Emoji และ Hashtags
 **การตอบ**

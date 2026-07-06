@@ -35,7 +35,12 @@
 - เริ่มจากสุ่มว่าวันนี้จะทำรูปอะไร+สไตล์ไหน ให้ได้จำนวน 2 ชุด สำหรับ 2 โพส โดยสุ่มจาก A+B 
 > A = [ห้องนั่งเล่น, ห้องนอน, ห้องครัว, ห้องน้ำ, ห้องรับแขก, โต๊ะแต่งหน้า, โต๊ะบาร์, ผนังตกแต่งทีวี] 
 > B = [สไตล์โมเดิร์น (Modern), สไตล์มินิมอล (Minimalist), สไตล์ลอฟท์ (Industrial Loft), สไตล์นอร์ดิก/สแกนดิเนเวียน (Nordic/Scandinavian), สไตล์ลักชัวรี่ (Luxury), สไตล์โคซี่ (Cozy), สไตล์คลาสสิก (Classic), สไตล์วินเทจ (Vintage)]
-- ค้นหารูปจากในเน็ตและโซเซียล เน้นรูปใหม่ๆก่อน แล้วแปลงไอเดียรูปเป็น prompt แบบ broad ไม่ละเอียดเกินไป เพื่อจะได้รูปที่แตกต่าง กำหนดขนาดรูป 3:4 --ar
+- ค้นหารูปจากในเน็ตและโซเซียล เน้นรูปใหม่ๆก่อน แล้วแปลงไอเดียรูปเป็น prompt แบบ broad ไม่ละเอียดเกินไป เพื่อจะได้รูปที่แตกต่าง
+- 📌 PROMPT บังคับหลักสำหรับรูปภาพ (ใส่ทุกครั้ง)
+
+```
+A photorealistic iPhone 16 Pro Max vertical photo of ... , deep focus with everything sharp from foreground to background, wide angle phone lens compression, natural real-world lighting, realistic phone-camera sharpness and compression with visible grain, slight chromatic aberration on high contrast edges, imperfect handheld framing with subtle tilt, raw authentic unpolished UGC moment style, no studio light, no cinematic effect.
+```
 - คิดแคปชั่นสำหรับทั้ง 2 รูปโพสลง Facebook แคปชั่นต้องกระชับ มี Emoji และ Hashtags
 **การตอบ**
   ชุดที่ 1 รูปอะไร+สไตล์ไหน

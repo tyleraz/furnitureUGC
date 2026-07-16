@@ -1,9 +1,9 @@
 **สินค้าทั่วไป มีตัวละคร***
 ```
 [Config]
-Item:
-Character:
-Setting: minimal home
+Item: .
+Character: .
+Setting: minimal home.
 [Core + Start]
 A candid vertical video of a {character} and a {item} in a {setting}, based on the reference images.
 [Motion]
@@ -17,7 +17,7 @@ No talking.
 ```
 [Config]
 Item: .
-Setting: minimal home
+Setting: minimal home.
 [Core + Start]
 A candid vertical video of a {item} in a {setting}, based on the reference images.
 [Motion]

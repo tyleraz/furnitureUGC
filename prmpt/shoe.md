@@ -13,13 +13,30 @@ The hand must firmly hold and display the shoe throughout the entire duration of
 No talking.
 ```
 
-***รองเท้าถูกสวม***
+***รองเท้าถูกสวม (ถ่ายก้มลงมา POV)***
+แบบนี้เพี้ยนเยอะ
 ```
 [Core + Start]
 A close-up vertical video sequence from a first-person perspective (POV) looking straight down at the specific shoes from the reference image, which are already worn on both of the person's feet in the very first frame. The character is wearing long, dark trousers and visible, simple socks that match the style of the shoes. The shoes (based on image_10.png) must be fully on both feet from frame 1.
 
 [Motion]
 The camera maintains a top-down view. The motion involves subtle, natural shifts and movements of the feet, such as a slight pivot of one heel or a small foot tap, to showcase the shoes being worn from different, natural wearer angles.
+
+[Constraints]
+The shoes must be worn on the feet throughout the entire duration of the video. Strictly maintain the exact design, color, and details of the product identical to the reference image without any modifications. Long trousers and visible socks must be worn. Start frame condition is met: shoes fully on both feet. No subtitles.
+
+[Audio]
+No talking.
+```
+
+
+***รองเท้าถูกสวม (ตั้งกล้องถ่ายจากด้านหน้า)***
+```
+[Core + Start]
+A vertical video sequence from a front-facing camera angle showing a woman's legs from the knees down to the feet, wearing the SKECHERS Street Con-Air - Extra Appeal shoes from the reference image. The shoes are already worn on both of the woman's feet in the very first frame. The character is wearing long, dark trousers and visible, simple socks that match the style of the shoes. The shoes must be fully on both feet from frame 1.
+
+[Motion]
+The camera maintains a steady front-facing view. The motion involves subtle, natural shifts and movements of the legs and feet, such as a slight pivot of one heel, a small foot tap, or shifting weight, to showcase the shoes being worn from a front-facing observer's angle.
 
 [Constraints]
 The shoes must be worn on the feet throughout the entire duration of the video. Strictly maintain the exact design, color, and details of the product identical to the reference image without any modifications. Long trousers and visible socks must be worn. Start frame condition is met: shoes fully on both feet. No subtitles.

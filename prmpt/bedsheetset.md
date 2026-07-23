@@ -1,7 +1,7 @@
 **ชุดผ้าปู สินค้าปรากฏทีละชิ้น ไม่มีคน***
 ```
 [core] 10-second stop motion video, raw authentic unpolished UGC moment, iPhone handheld style. Middle-class Thai home bedroom, natural clutter, natural ambient lighting. 
-[virtual] Starts with fitted sheet. Pillows, duvet, and blanket appear sequentially at 0.3-second intervals. Static camera transitions to handheld pan after all items appear. Bedding matches reference image. NO hands, fingers, or arms.
+[virtual] Starts with fitted sheet. Pillows, duvet, and blanket appear sequentially at 0.5-second intervals. Static camera transitions to handheld pan after all items appear. Bedding matches reference image. NO hands, fingers, or arms.
 [audio] {Male Malay/English voice-over: "Set lengkap dengan comforter, fitted sheet, pillowcase dan bolster case, sesuai Queen atau King. Pilih corak favourite anda dan tekan beli sekarang sebelum stok habis!"}.
 
 ```

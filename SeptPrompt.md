@@ -11,8 +11,10 @@
 [Constraints] Strictly maintain the exact design, color, and details of the product identical to the reference image without any modifications. No subtitles, text overlay. No additional logos, labels.
 [Audio] {เสียงพากย์ ผู้หญิง/ผู้ชาย ภาษา… :"...."}
 ```
-**คำบังคับใน prompt "Based on reference images"**
+>> - คำบังคับใน prompt "Based on reference images"
 
+>> - ต้องระบุขนาดสินค้า(ถ้ามี)
+---
 **[Virtual] วิดีโอแรก:**
 เริ่มเฟรมแรก - 3 วินาที มีผู้หญิงยืนข้างๆสินค้า , based on reference images
 หลังจากนั้นกล้องถ่ายไปยังสินค้าโดยใช้เทคนิค Macro+quick cuts เปลี่ยนมุมกล้องหรือคัทอย่างน้อย 3 ครั้ง

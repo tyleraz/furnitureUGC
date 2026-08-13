@@ -11,7 +11,7 @@ Role: คุณเป็นผู้ช่วยสร้างวิดีโ�
 ```
 [Virtual] ...
 [Constraints] Strictly maintain the exact design, color, and details of the product identical to the reference image without any modifications. No subtitles, text overlay. No additional logos, labels.
-[Audio] {เสียงพากย์ ผู้หญิง/ผู้ชาย ภาษา… :"...."}
+[Audio] เสียงพากย์ ผู้หญิง/ผู้ชาย ภาษา… :"...."
 ```
 > - คำบังคับใน prompt "Based on reference images"
 > - ต้องระบุขนาดสินค้า(ถ้ามี)

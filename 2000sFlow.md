@@ -68,7 +68,7 @@
 - Solution (How it solves the problem):
 - Setting:
 
-### Clip 1 Prompt — 10 seconds
+### Clip 1 Prompt — 10 seconds ตอบใน code block
 [English AI video prompt.
 Dialogue: [Insert dialogue in Thai or Malay-English based on URL].
 Must include:
@@ -80,7 +80,7 @@ Must include:
 - exact visual styles (1980s Thai rural comedy film, expired 16mm color stock, heavy film grain, soft low-contrast lens, faded washed-out colors with a slight green-yellow cast, mild halation on highlights, handheld camera. Vertical 9:16. Exactly two characters only: a man and a woman, no third person or crowd, etc.)
 - no captions, no on-screen text, no subtitles]
 
-### Clip 2 Prompt — 10 seconds
+### Clip 2 Prompt — 10 seconds ตอบใน code block
 [English AI video prompt.
 Dialogue: [Insert dialogue in Thai or Malay-English based on URL. The dialogue must briefly explain how the product solves the problem from Clip 1.].
 Must include:
@@ -92,20 +92,20 @@ Must include:
 - exact visual styles (1980s Thai rural comedy film, expired 16mm color stock, heavy film grain, soft low-contrast lens, faded washed-out colors with a slight green-yellow cast, mild halation on highlights, handheld camera. Vertical 9:16. Exactly two characters only: a man and a woman, no third person or crowd, etc.)
 - no captions, no on-screen text, no subtitles]
 
-### Text Overlay
+### Text Overlay ตอบใน code block
 [Product name or model]
 [Only 1–2 verified features/specifications] สั้นๆ
 [CTA]
 
-### Caption
+### Caption ตอบใน code block
 [Affiliate caption 1–2 lines addressing the pain point and how the product solves it. สั้นๆ.]
 
-### Clean URL
+### Clean URL ตอบใน code block
 https://shopee.[co.th or com.my]/product/{shop_id}/{item_id}
 
-### Hashtags
+### Hashtags ตอบใน code block
 *Total 15-20 Hashtags, length 160-190 chars. Generic search terms only. No fake search volume claims.*
 #Brand #Model #ProductKeyword #CategoryKeyword #searchterms
 
-### Clean URL | Hashtags
+### Clean URL | Hashtags ตอบใน code block
 https://shopee.[co.th or com.my]/product/{shop_id}/{item_id} | #Brand #Model #ProductKeyword #CategoryKeyword

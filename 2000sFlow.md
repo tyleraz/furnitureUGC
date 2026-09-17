@@ -5,8 +5,8 @@
 
 ## REGIONAL & LANGUAGE RULES สำหรับชิ้นงาน
 ให้ตรวจสอบ URL ของแท็บปัจจุบัน:
-- หากเป็น `shopee.co.th`: บทพูด แคปชั่น และข้อความผลลัพธ์ทั้งหมดต้องเป็น "ภาษาไทย" และใช้สไตล์ภาพ "Early 2000s Y2K Thai TV Commercial"
-- หากเป็น `shopee.com.my`: บทพูด แคปชั่น และข้อความผลลัพธ์ทั้งหมดต้องเป็น "ภาษามลายูผสมภาษาอังกฤษ (Malay-English/Manglish)" และใช้สไตล์ภาพ "Early 2000s Y2K Malaysian TV Commercial" **โดยตัวละครหญิง (a woman) ต้องสวมฮิญาบและแต่งกายมิดชิดเรียบร้อยตามแบบฉบับผู้หญิงชาวมาเลย์มุสลิม**
+- หากเป็น `shopee.co.th`: บทพูด แคปชั่น และข้อความผลลัพธ์ทั้งหมดต้องเป็น "ภาษาไทย" 
+- หากเป็น `shopee.com.my`: บทพูด แคปชั่น และข้อความผลลัพธ์ทั้งหมดต้องเป็น "ภาษามลายูผสมภาษาอังกฤษ (Malay-English/Manglish)" **โดยตัวละครหญิง (a woman) ต้องสวมฮิญาบและแต่งกายมิดชิดเรียบร้อยตามแบบฉบับผู้หญิงชาวมาเลย์มุสลิม**
 
 ## INPUT หลัก
 ใช้ "หน้าสินค้าจากแท็บปัจจุบัน" เป็นแหล่งข้อมูลสินค้าเพียงแหล่งเดียว และใช้ "รูปอ้างอิง" เป็นแหล่งความจริงด้านภาพ (visual source of truth) สำหรับ a man, a woman และ ตัวสินค้า เท่านั้น (ห้ามนำพื้นหลัง แสง หรือพร็อพจากรูปอ้างอิงมาใช้)
@@ -30,7 +30,7 @@
    - ห้ามสร้างโลโก้แบรนด์ใหม่ หรือโลโก้คู่แข่ง
    - Prompt ของทั้ง Clip 1 และ Clip 2 ต้องมีประโยคนี้เหมือนกันทุกคำ:
      "the exact product appearance must be based on reference images; do not redesign, recolor, restyle, simplify, add parts, remove parts, or generate a different product"
-3. ข้อจำกัดของภาพ: ห้ามมีนิ้ว/มือ/ร่างกายผิดรูป, โทรศัพท์มือถือ, ป้ายดิจิทัล/ป้ายราคา/ป้ายร้าน, ข้อความบนจอ, ซับไตเติล (ยกเว้นตัวสินค้าสมัยใหม่ที่อนุโลมให้ขัดกับฉากยุค 2000s ได้)
+3. ข้อจำกัดของภาพ: ห้ามมีนิ้ว/มือ/ร่างกายผิดรูป, โทรศัพท์มือถือ, ป้ายดิจิทัล/ป้ายราคา/ป้ายร้าน, ข้อความบนจอ, ซับไตเติล (ยกเว้นตัวสินค้าสมัยใหม่ที่อนุโลมให้ขัดกับฉากยุค 1980s ได้)
 4. สินค้ากลุ่มเสี่ยง (ไฟฟ้า, ช่าง, ยานยนต์): ห้ามแสดงขั้นตอนเทคนิคที่เสี่ยง ให้เน้น Close-up หรือการวาง/ถืออย่างปลอดภัย
 5. บทพูดห้ามยาวหรือสั้นเกินไป ปกติ 10 วินาที พูดได้ไม่เกิน 25 คำ
 ---
@@ -57,7 +57,7 @@
    - วินาทีสุดท้ายเป็น Product hero shot (ไม่มีข้อความ เว้นที่ว่างด้านบน 25–30% สำหรับใส่ข้อความใน โปรแกรมตัดต่อ)
 
 4. Visual Style ที่ต้องมีใน Prompt เสมอ:
-   Vertical 9:16, fully original early 2000s TV commercial aesthetic, Y2K fashion vibes, vibrant and high-contrast colors, early digital video (DV) camcorder quality, slightly overexposed and flat broadcast-TV lighting, exactly two characters only: a man and a woman, no text, no subtitles.
+   Look: 1980s Thai rural comedy film, expired 16mm color stock, heavy film grain, soft low-contrast lens, faded washed-out colors with a slight green-yellow cast, mild halation on highlights, handheld camera. Vertical 9:16. Exactly two characters only: a man and a woman, no text, no subtitles.
 
 ---
 
@@ -79,7 +79,7 @@
 - Setting: 
 - Product role: 
 - Character continuity: 
-- Final spoken CTA: (ห้ามชวนซื้อในช็อปปี้ ให้เชิญชวนเช็คสินค้าในตะกร้าด้านล่างพร้อมรับส่วนลด)
+- Final spoken CTA: (ห้ามชวนซื้อในช็อปปี้ ห้ามพูดว่าให้เช็คตะกร้าด้านล่าง ห้ามพูดถึงส่วนลด หรือประโยคที่คล้ายๆ กัน ให้เน้นจบด้วยจุดเด่นของสินค้าแทน)
 
 ## Clip 1 Prompt — 10 seconds
 ```text
@@ -91,21 +91,21 @@ Must include:
 - ends with a cut-away to the product displayed in a different area (not in the characters' hands)
 - the exact product appearance must be based on reference images; do not redesign, recolor, restyle, simplify, add parts, remove parts, or generate a different product
 - no physical product description
-- exact visual styles (early 2000s TV commercial aesthetic, Y2K vibe, early digital video look, etc.)
+- exact visual styles: Look: 2000s Thai rural comedy film, expired 16mm color stock, heavy film grain, soft low-contrast lens, faded washed-out colors with a slight green-yellow cast, mild halation on highlights, handheld camera. Vertical 9:16.
 - no captions, no on-screen text, no subtitles]
 ```
 
 ## Clip 2 Prompt — 10 seconds
 ```text
 [English AI video prompt.
-Dialogue: [Insert dialogue in Thai or Malay-English based on URL. The dialogue must briefly explain how the product solves the problem from Clip 1. The final CTA must NOT mention Shopee, but instead tell viewers to check the yellow basket below for discounts].
+Dialogue: [Insert dialogue in Thai or Malay-English based on URL. The dialogue must briefly explain how the product solves the problem from Clip 1. The final CTA must NOT mention Shopee, yellow baskets, discounts, or similar phrases].
 Must include:
 - based on reference images
 - [INSERT EXACT CHARACTER CONTINUITY LOCK HERE]
 - Clip 2 is a separate scene in the same location with the same characters, wardrobe, colors, lighting, and visual style as Clip 1.
 - the exact product appearance must be based on reference images; do not redesign, recolor, restyle, simplify, add parts, remove parts, or generate a different product
 - product close-up based on reference images only
-- exact visual styles (early 2000s TV commercial aesthetic, Y2K vibe, early digital video look, etc.)
+- exact visual styles: Look: 2000s Thai rural comedy film, expired 16mm color stock, heavy film grain, soft low-contrast lens, faded washed-out colors with a slight green-yellow cast, mild halation on highlights, handheld camera. Vertical 9:16.
 - no captions, no on-screen text, no subtitles]
 ```
 
@@ -113,7 +113,6 @@ Must include:
 ```text
 [Product name or model]
 [Only 1–2 verified features/specifications] สั้นๆ
-[CTA]
 ```
 
 ## Caption

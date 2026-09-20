@@ -44,12 +44,13 @@
    - ต้องใช้ Lock นี้เหมือนกันทุกคำในทั้ง Clip 1 และ Clip 2 ห้ามเปลี่ยนสีเสื้อผ้า ทรงผม หรือเพิ่ม/ลดไอเทมใดๆ ตลอดทั้ง 2 คลิป
 
 2. โครงเรื่อง Clip 1 (10s):
-   - เปิดด้วยปัญหาในชีวิตประจำวันที่สินค้าช่วยได้ (a woman สังเกตเห็น/ถาม, a man ตอบกลับอย่างเป็นธรรมชาติ)
-   - จบที่ a woman ทำแนะนำสินค้าที่จะมาแก้ปัญหา กล้อง (Cut-away) ไปที่ตัวสินค้าซึ่งจัดวางอยู่อย่างโดดเด่นในมุมอื่นของฉากเดิม ห้ามนำสินค้ามาปรากฏในมือของตัวละครในฉากแรก และห้ามใช้ภาพพื้นหลัง/พร็อพจากรูปอ้างอิงสินค้า (สินค้าต้อง based on reference images)
+   - ปัญหาเกิดกับผู้ชายหรือกับผู้หญิงต้องปรับให้เหมาะสมกับสินค้า
+   - เปิดด้วยปัญหาในชีวิตประจำวันที่สินค้าช่วยได้ เช่น (a woman บ่นถึงปัญหา, a man ตอบกลับอย่างเป็นธรรมชาติ) หรือ (a man บ่นถึงปัญหา, a woman ตอบกลับอย่างเป็นธรรมชาติ)
+   - จบที่ a man หรือ a woman (ดูจากบริบทด้านบน) แนะนำสินค้าที่จะมาแก้ปัญหา กล้อง (Cut-away) ไปที่ตัวสินค้าซึ่งจัดวางอยู่อย่างโดดเด่นในมุมอื่นของฉากเดิม ห้ามนำสินค้ามาปรากฏในมือของตัวละครในฉากแรก และห้ามใช้ภาพพื้นหลัง/พร็อพจากรูปอ้างอิงสินค้า (สินค้าต้อง based on reference images)
 
 3. โครงเรื่อง Clip 2 (10s):
    - ฉากเดิม ตัวละครเดิม ชุดเดิม (เปลี่ยนมุมกล้องได้)
-   - a woman แนะนำชื่อแบรนด์/รุ่นเฉพาะ พร้อมอธิบายเหตุผลสั้น ๆ ว่าสินค้านี้ช่วยแก้ปัญหาจาก Clip 1 ได้อย่างไร (ใช้ข้อมูลที่ยืนยันได้จริง) แล้วอธิบายข้อดีหรือข้อเด่นของสินค้า
+   -  a man หรือ a woman แนะนำชื่อแบรนด์/รุ่นเฉพาะ พร้อมอธิบายเหตุผลสั้น ๆ ว่าสินค้านี้ช่วยแก้ปัญหาจาก Clip 1 ได้อย่างไร (ใช้ข้อมูลที่ยืนยันได้จริง) แล้วอธิบายข้อดีหรือข้อเด่นของสินค้า
    - มี Product close-up ที่เน้นการใช้งานจริงอย่างสมเหตุสมผล โดยยังคงอ้างอิงรูปลักษณ์จากรูปอ้างอิงเท่านั้น (ห้าม AI สร้างหน้าตาสินค้าใหม่)
    - ห้ามพูดหรือชวนให้คนมาซื้อในช็อปปี้ ห้ามพูดว่าให้เช็คสินค้าในตะกร้าด้านล่าง ส่วนลด หรือประโยคที่คล้ายๆ กัน
    - วินาทีสุดท้ายเป็น Product hero shot (ไม่มีข้อความ เว้นที่ว่างด้านบน 25–30% สำหรับใส่ข้อความในโปรแกรมตัดต่อ)
@@ -76,7 +77,7 @@
 - Solution (How it solves the problem):
 - Setting:
 
-### Clip 1 Prompt — 10 seconds ตอบใน code block
+### Clip 1 Prompt — 10 seconds ตอบใน code block (ใส่ '\n' เมื่อขึ้นบรรทัดใหม่)
 [English AI video prompt.
 Dialogue: [Insert dialogue in Thai or Malay-English based on URL].
 Must include:
@@ -86,7 +87,7 @@ Must include:
 - the exact product appearance must be based on reference images; do not redesign, recolor, restyle, simplify, add parts, remove parts, or generate a different product
 - no physical product description
 
-### Clip 2 Prompt — 10 seconds ตอบใน code block
+### Clip 2 Prompt — 10 seconds ตอบใน code block (ใส่ '\n' เมื่อขึ้นบรรทัดใหม่)
 [English AI video prompt.
 Dialogue: [Insert dialogue in Thai or Malay-English based on URL. The dialogue must briefly explain how the product solves the problem from Clip 1.].
 Must include:

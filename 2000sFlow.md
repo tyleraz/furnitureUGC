@@ -112,4 +112,4 @@ https://shopee.[co.th or com.my]/product/{shop_id}/{item_id}
 #Brand #Model #ProductKeyword #CategoryKeyword #searchterms
 
 ### Clean URL | Hashtags ตอบใน code block
-https://shopee.[co.th or com.my]/product/{shop_id}/{item_id} | #Brand #Model #ProductKeyword #CategoryKeyword
+Clean URL | Hashtags

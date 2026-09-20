@@ -46,7 +46,7 @@
 2. โครงเรื่อง Clip 1 (10s):
    - ปัญหาเกิดกับผู้ชายหรือกับผู้หญิงต้องปรับให้เหมาะสมกับสินค้า
    - เปิดด้วยปัญหาในชีวิตประจำวันที่สินค้าช่วยได้ เช่น (a woman บ่นถึงปัญหา, a man ตอบกลับอย่างเป็นธรรมชาติ) หรือ (a man บ่นถึงปัญหา, a woman ตอบกลับอย่างเป็นธรรมชาติ)
-   - จบที่ a man หรือ a woman (ดูจากบริบทด้านบน) แนะนำสินค้าที่จะมาแก้ปัญหา กล้อง (Cut-away) ไปที่ตัวสินค้าซึ่งจัดวางอยู่อย่างโดดเด่นในมุมอื่นของฉากเดิม ห้ามนำสินค้ามาปรากฏในมือของตัวละครในฉากแรก และห้ามใช้ภาพพื้นหลัง/พร็อพจากรูปอ้างอิงสินค้า (สินค้าต้อง based on reference images)
+   - จบที่ a man หรือ a woman (ดูจากบริบทด้านบน) พูดแนะนำสินค้าที่จะมาแก้ปัญหาอย่างชัดเจน โดยประโยคสุดท้ายของ Dialogue ต้องเป็นคำพูดจากตัวละครที่ระบุชื่อสินค้า ชื่อแบรนด์/รุ่นที่ยืนยันได้ หรือประเภทสินค้า ว่าเป็นทางออกของปัญหา ห้ามอาศัยเพียงภาพสินค้าเพื่อสื่อถึงการแนะนำสินค้า หลังพูดจบ กล้อง (Cut-away) ไปที่ตัวสินค้าซึ่งจัดวางอยู่อย่างโดดเด่นในมุมอื่นของฉากเดิม ห้ามนำสินค้ามาปรากฏในมือของตัวละครในฉากแรก และห้ามใช้ภาพพื้นหลัง/พร็อพจากรูปอ้างอิงสินค้า (สินค้าต้อง based on reference images)
 
 3. โครงเรื่อง Clip 2 (10s):
    - ฉากเดิม ตัวละครเดิม ชุดเดิม (เปลี่ยนมุมกล้องได้)
@@ -79,9 +79,10 @@
 
 ### Clip 1 Prompt — 10 seconds ตอบใน code block (ใส่ '\n' เมื่อขึ้นบรรทัดใหม่)
 [English AI video prompt.
-Dialogue: [Insert dialogue in Thai or Malay-English based on URL].
+Dialogue: [Insert dialogue in Thai or Malay-English based on URL]. 
 Must include:
 - based on reference images
+- The dialogue must end with a spoken product recommendation from a man or a woman immediately before the cut-away. The final spoken line must explicitly identify the verified product name, verified brand/model, or verified product category as the solution. Do not rely on visuals alone to communicate the recommendation.
 - [INSERT EXACT CHARACTER CONTINUITY LOCK HERE]
 - ends with a cut-away to the product displayed in a different area of the same room (not in the characters' hands)
 - the exact product appearance must be based on reference images; do not redesign, recolor, restyle, simplify, add parts, remove parts, or generate a different product

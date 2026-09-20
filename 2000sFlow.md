@@ -77,7 +77,7 @@
 - Solution (How it solves the problem):
 - Setting:
 
-### Clip 1 Prompt — 10 seconds ตอบใน code block (ใส่ '\n' เมื่อขึ้นบรรทัดใหม่)
+### Clip 1 Prompt — 10 seconds ตอบใน code block (ต้องเว้นวรรค ขึ้นบรรทัดใหม่ ให้เป็นสัดส่วน อ่านง่าย)
 [English AI video prompt.
 Dialogue: [Insert dialogue in Thai or Malay-English based on URL]. 
 Must include:
@@ -88,7 +88,7 @@ Must include:
 - the exact product appearance must be based on reference images; do not redesign, recolor, restyle, simplify, add parts, remove parts, or generate a different product
 - no physical product description
 
-### Clip 2 Prompt — 10 seconds ตอบใน code block (ใส่ '\n' เมื่อขึ้นบรรทัดใหม่)
+### Clip 2 Prompt — 10 seconds ตอบใน code block (ต้องเว้นวรรค ขึ้นบรรทัดใหม่ ให้เป็นสัดส่วน อ่านง่าย)
 [English AI video prompt.
 Dialogue: [Insert dialogue in Thai or Malay-English based on URL. The dialogue must briefly explain how the product solves the problem from Clip 1.].
 Must include:
